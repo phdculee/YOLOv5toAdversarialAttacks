@@ -2,6 +2,7 @@
 Evaluating the Vulnerability of YOLOv5 to Adversarial Attacks for Enhanced Cybersecurity in MASS
 
 A paper was submitted to the Journal of Marine Science and Engineering. https://www.mdpi.com/journal/jmse
+
 We will provide a link to the paper once it is published.
 In the paper, we generate adversarial examples with four types of attacks (FGSM, I-FGSM, MI-FGSM, PGD), six types of DNN algorithms (AlexNet, VGG16, GoogLeNet, ResNet50, InceptionNetv3, and EfficientNetv2s), and varying values of the epsilon hyperparameter to evaluate the vulnerability of YOLOv5.
 
